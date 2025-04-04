@@ -33,12 +33,6 @@ This project focuses on forecasting the hourly and daily prices of Bitcoin (BTC)
 
 ---
 
-## 📈 Sample Result Plots
-
-> *(You can add images here later using: `![Plot](./images/BTC_forecast_plot.png)`)*
-
----
-
 ## 📊 Tools & Libraries
 
 - Python, Pandas, NumPy
