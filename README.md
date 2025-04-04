@@ -61,5 +61,5 @@ This project focuses on forecasting the hourly and daily prices of Bitcoin (BTC)
 ## 👤 Author
 
 **Surapot Nonpassopon**  
-MSc Data Science and Analytics – University of Leeds  
+2025 Project 
 📂 GitHub Portfolio: [github.com/surapotsrp](https://github.com/surapotsrp)
